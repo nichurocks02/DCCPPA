@@ -10,5 +10,5 @@ If you want to change the obstacles between the start and end goal or in the con
 
 How to run 
 1. python dccppa.py
-2. python rrt_prm.py
-
+2. python prm_rrt.py
+The output of these files generate the no of steps created by the path from start point to end goal.
